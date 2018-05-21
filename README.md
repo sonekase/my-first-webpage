@@ -2,7 +2,7 @@
 
 #### _Created My First Webpage with the assistance of Epicodus, 05.21.2018_
 
-#### By _**Anousone Kaseumsouk $ Swati Sahay**_
+#### By _**Anousone Kaseumsouk & Swati Sahay**_
 
 ## Description
 
